@@ -1,0 +1,22 @@
+{
+  "name": "vuelegacy",
+  "version": "1.0.0",
+  "description": "Proxy for Vue 1.x",
+  "main": "vuelegacy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehciolo/vuelegacy.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Cosmin Cioacla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tehciolo/vuelegacy/issues"
+  },
+  "homepage": "https://github.com/tehciolo/vuelegacy#readme"
+}
