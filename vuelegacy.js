@@ -1,3 +1,5 @@
-const vuelegacy = require('vue');
+'use strict';
 
-export default vuelegacy;
+var vuelegacy = require('vue');
+
+module.exports = vuelegacy;
