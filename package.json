@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tehciolo/vuelegacy/issues"
   },
-  "homepage": "https://github.com/tehciolo/vuelegacy#readme"
+  "homepage": "https://github.com/tehciolo/vuelegacy#readme",
+  "devDependencies": {
+    "vue": "^1.0.28"
+  }
 }
